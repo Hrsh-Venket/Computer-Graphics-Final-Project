@@ -36,3 +36,7 @@ In this stage, I will compare predictions for unknown regions to known regions i
 ### Stage 3
 
 In this stage, I will take the known intestine regions and project them to a 3D point cloud. Perhaps after some form of interpolation, I will display this as 3D mesh of the intestine.
+
+I will see if there is any way I can measure accuracy of this stage of the pipeline.
+
+My goal with is to implement an efficient pipeline to process these images and display a reconstructed intestine.
